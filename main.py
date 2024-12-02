@@ -1,3 +1,7 @@
+# pip install SpeechRecognition
+# pip install pygame
+# pip install pyttsx3
+
 import speech_recognition as sr
 import random
 import pygame
